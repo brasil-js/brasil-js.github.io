@@ -3,7 +3,7 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brasil-js/brasil-js.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-*Este é um projeto em construção, mantido de pela comunidade. Faça um pull-request e torne-se um contruidor!*
+*Este é um projeto em construção, mantido de pela comunidade. Faça um pull-request e torne-se um contribuidor!*
 
 O Brasil.js é um conjunto de módulos JavaScript com ferramentas para facilitar a vida do desenvolvedor brasileiro. A maioria dos módulos também roda no browser. Visite a página de cada projeto clicando no seu respectivo link abaixo:
 
