@@ -3,12 +3,12 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brasil-js/brasil-js.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-*Este é um projeto em construção, mantido de pela comunidade. Faça um pull-request e torne-se um contribuidor!*
+*Este é um projeto em construção, mantido pela comunidade. Faça um pull-request e torne-se um contribuidor!*
 
 O Brasil.js é um conjunto de módulos JavaScript com ferramentas para facilitar a vida do desenvolvedor brasileiro. A maioria dos módulos também roda no browser. Visite a página de cada projeto clicando no seu respectivo link abaixo:
 
 - **[Boleto Bancário](https://github.com/brasil-js/boletobancario)**   
-     Gerador de boletos bancários dos principais bancos do Brasil em `.pdf`, `.png` e `.html` diretamente no node.js ou no browser. Inspirado no [Caellum Stella](https://github.com/caelum/caelum-stella). [Visite o site de demosntração e emita um boleto de teste!](http://boletobancar.io/)  
+     Gerador de boletos bancários dos principais bancos do Brasil em `.pdf`, `.png` e `.html` diretamente no node.js ou no browser. Inspirado no [Caellum Stella](https://github.com/caelum/caelum-stella). Visite o site de demonstração e [emita um boleto de teste!](http://boletobancar.io/) ou veja um [boleto de exemplo](https://s3-sa-east-1.amazonaws.com/gammasoft/open-source/brasil/boleto.pdf)  
     <sub>Apenas banco itaú e formato `.pdf` implementados no node.js até agora</sub>
 
 - **[Nota Fiscal Eletrônica](https://github.com/brasil-js/notafiscaleletronica)**  
@@ -16,7 +16,7 @@ O Brasil.js é um conjunto de módulos JavaScript com ferramentas para facilitar
      <sub>Nada implementado até agora</sub>
 
 - **[DANFE](https://github.com/brasil-js/danfe)**  
-     Gerador de DANFES em `.pdf`, `.png` e `.html` diretamente no node.js ou no browser! Este módulo cuida apenas da geração da DANFE. Para emissão de NFe verifique o módulo NFE.  
+     Gerador de DANFES em `.pdf`, `.png` e `.html` diretamente no node.js ou no browser! Este módulo cuida apenas da geração da DANFE. Para emissão de NFe verifique o módulo NFE. Veja uma [DANFE de exemplo!](https://s3-sa-east-1.amazonaws.com/gammasoft/open-source/brasil/danfe.pdf) 
      <sub>Apenas formato `.pdf` implementado no node.js até agora</sub>
 
 - **[Consultas](https://github.com/brasil-js/consultas)**  
