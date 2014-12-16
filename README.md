@@ -3,11 +3,9 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brasil-js/brasil-js.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+*Este é um projeto em construção, mantido de pela comunidade. Faça um pull-request e torne-se um contruidor!*
+
 O Brasil.js é um conjunto de módulos JavaScript com ferramentas para facilitar a vida do desenvolvedor brasileiro. A maioria dos módulos também roda no browser. Visite a página de cada projeto clicando no seu respectivo link abaixo:
-
-Todos os repositórios da organização [Brasil.js](https://github.com/brasil-js) estão disponibilizados sobre a licença MIT. Utilize gratuitamente.
-
-*Este é um projeto construido pela comunidade, faça um pull-request e torne-se um contruidor!*
 
 - **[Boleto Bancário](https://github.com/brasil-js/boletobancario)**   
      Gerador de boletos bancários dos principais bancos do Brasil em `.pdf`, `.png` e `.html` diretamente no node.js ou no browser. Inspirado no [Caellum Stella](https://github.com/caelum/caelum-stella). [Visite o site de demosntração e emita um boleto de teste!](http://boletobancar.io/)  
@@ -45,6 +43,10 @@ Todos os repositórios da organização [Brasil.js](https://github.com/brasil-js
 
 - **[Inscrição Estadual](https://github.com/brasil-js/inscricaoestadual)**  
      Este módulo implementa a validação de inscrição estadual de todos os estados brasileiros de acordo com os algoritmos descritos no [manual do SINTEGRA](http://www.sintegra.gov.br/insc_est.html).
+
+------
+
+Todos os repositórios da organização [Brasil.js](https://github.com/brasil-js) estão disponibilizados sobre a licença MIT. Utilize gratuitamente.
 
 
 ### Licença MIT
